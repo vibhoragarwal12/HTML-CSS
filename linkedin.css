@@ -1,0 +1,31 @@
+.email{
+    font-size: 20px;
+    color:grey;
+    font-style: Arial;
+    margin-bottom: 0;
+}
+.box{
+    font-size: 25px;
+    margin-top: 8px;
+    width:460px;
+    border-style: solid;
+    border-width: 1px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+.tnc{
+    font-size: 20px;
+    color:grey;
+    font-style: Arial;
+}
+.permission{
+    font-size: 30px;
+    color:white;
+    background-color: rgb(11, 11, 240);
+    border-radius: 60px;
+    font-style: Arial;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-width: 0;
+    width:460px;
+}

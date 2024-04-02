@@ -1,0 +1,57 @@
+.ride{
+    font-style: Arial;
+    color: black;
+    font-size: 40px;
+    margin-top:0px;
+    margin-bottom:25px;
+}
+.pickup{
+    display: block;
+    font-style: Arial;
+    font-size: 20px;
+    background-color: rgb(222, 222, 222);
+    border: none;
+    padding-top:6px;
+    padding-bottom: 6px;
+    padding-left:16px;
+    padding-right:200px;
+}
+.destination{
+    display: block;
+    font-style: Arial;
+    font-size: 20px;
+    background-color: rgb(222, 222, 222);
+    border: none;
+    padding-top:6px;
+    padding-bottom: 6px;
+    padding-left:16px;
+    padding-right:200px;
+    margin-top: 7px;
+}
+.request{
+    display: inline;
+    font-style: Arial;
+    font-size: 20px;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    border: none;
+    padding-top:10px;
+    padding-bottom: 10px;
+    padding-left:20px;
+    padding-right:20px;
+    margin-top:20px;
+}
+.schedule{
+    display: inline;
+    font-style: Arial;
+    font-size: 20px;
+    color: black;
+    background-color: rgb(222, 222, 222);
+    border: none;
+    padding-top:10px;
+    padding-bottom: 10px;
+    padding-left:20px;
+    padding-right:20px;
+    margin-top:20px;
+    margin-left: 10px;
+}
